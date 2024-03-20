@@ -1,0 +1,16 @@
+# look into gans
+# look into nets in general
+# look into links in links_to_read
+# nvidia omniverse gan verse ai playground
+# create database structure for saw pallmeto data
+
+# see icloud notes for more reference in rowell notes
+
+# complete gan tutorials
+# get tensorflow installed across machines
+# unreal esium
+# gan to take in photo and output 3d mesh descriminator would be was this mesh hand created or machine scan of the actual plant in question
+# need 3d scanner for this^
+# iphone 12 Pro?
+# cheaper option?
+# could use app that already does image to 3d mesh creation for data ground truth or 1 to the descriminator (completely true)
