@@ -1,0 +1,202 @@
+Rowell notes
+
+So none of my laptops run cesium 
+
+I have a desktop that will has gpu
+
+Windows or Linux?
+
+Tensorflow usage?
+PyTorch usage?
+Unreal plug-in usage?
+
+Examples of gans so far
+
+Start with random noise 
+
+Generator generates image and 
+
+Decider guesses if it was real or fake data 
+
+Example generated hand written numbers using the lenet dataset 
+
+Gans being used to generate 3d models? Or fire representations in 3d space or what?
+
+What gan implementation 
+
+Object gan?
+
+What can I be doing of any sort to be helping 
+
+Don’t take up too much of his time 
+
+End platform destination possibilities?
+iOS android desktop3? Web?
+
+Three gs unreal probably has web builder though using open gl or whatever 
+
+No marketplace in Ubuntu 
+Tensorflow gpu also super difficult I couldn’t get it working properly tried docker and then install locally only docker gpu worked I think and was restricted to Jupiter notebook 
+
+Object gans for 3d object creation
+
+Gan object generation
+
+Liar uas based liar self driving car
+
+Detect rapid objects using object gan
+
+Random 
+
+3d model of square
+Goal take photos of squares
+From photos and square being label 
+
+Picture generates 3d object of square
+
+Picture to 3d model
+
+Geometries stinker better to start with
+
+Labels?
+
+Gan get series off ?
+
+Create synthetic 
+
+Label reference to 3d object
+
+Remote sensing based estimate
+
+Label for x y it’s true that it’s a certain fuel
+
+Being in all data layers and run through cnn 
+Ml end output classification
+Or actual physical measurement
+
+Look at code and paper in texts
+
+3d gan generator 
+YouTube in second 
+ 
+2 layer identification of object first
+
+Training data is a bunch of photos
+Labeling define polygon around object
+
+Polygon discrete square? <- discrete vs continuous idk meanings
+
+Label that segments object from imagery
+
+Segment out the literal object from multiple perspectives of different angles of exposure
+Classification object gan generate 3d model
+
+
+Read up on paper and code in texts sms messages
+
+Go out and take photos 
+pallmeto tree 
+
+Spikeys segments easier geometry
+
+Take pictures of pallmeto
+
+
+Label photos  of bounding box coordinates
+Try to get object identification and bounding box
+Take pictures training data pallmeto 
+50 photos of pallmeto
+
+
+Where I could go for pictures? 
+
+Nvidia gan verse Omni verse 
+Ai playground 
+
+Pine trees too ?
+
+
+Could gan be mesh evaluation (how to evaluate) generates mesh vs known to be accurate mesh
+
+Need actual scans or premade scans?
+
+Any premade gans
+
+30 A niceville apalachicola
+
+Get images from Rowell 
+Saw palmetto map online
+
+Shade water but dry harder ground colder ground dark gray ground also sandy pink ground leaves different textures different varieties?
+
+Panama City
+
+Blountstown
+
+Stop find pallmeto
+Measure lengths and measurements of plants
+Library of images and annotations
+Any other additional papers
+
+Build simple object gan or 3d gan
+
+1,2,3 papers links to add TODO from texts
+
+Object gan do segmentation of images to pull out 
+
+Object gan identification segmentation of 
+^
+
+Next step extract 3d of sow pallmeto
+
+Multiple angles
+Take as many clean up later take at least ten
+
+Directory of images and spreadsheet of data
+
+Apilachicola pancea pallmeto south of Tallahassee
+
+
+Saint marks 
+wildlife refuge
+
+Walkulla springs 
+
+Tallahassee museum
+Mashes sands
+
+Saint George
+
+
+
+Possibility of going to use their computers
+
+
+Storage solutions
+
+Peacockethan
+
+
+Update on progress  after  tangibility
+
+See keep list of links 
+
+Export this to cleaner format 
+
+Where should I store data 
+Setup project tracker and progression 
+
+
+Serenoa repens (Saw Palmetto)
+http://3dgan.csail.mit.edu/
+
+http://3dgan.csail.mit.edu/
+
+https://arxiv.org/abs/1902.10740
+
+https://arxiv.org/abs/1912.01707
+
+http://3dgan.csail.mit.edu/
+
+https://github.com/jamesli1618/Obj-GAN
+
